@@ -1,0 +1,24 @@
+{
+  "results": {
+    "tool": {
+      "name": "dotnet"
+    },
+    "summary": {
+      "tests": 1,
+      "passed": 0,
+      "failed": 1,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "start": 1729184917131,
+      "stop": 1729184917706
+    },
+    "tests": [
+      {
+        "name": "Returns Hello",
+        "status": "failed",
+        "duration": 1
+      }
+    ]
+  }
+}

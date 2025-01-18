@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="ceb92b69-2110-4023-9f92-6cc031fbd8d2" name="@Williams-Mini 2024-10-17 13:08:37" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2024-10-17T13:08:37.7017760-04:00" queuing="2024-10-17T13:08:37.7017760-04:00" start="2024-10-17T13:08:37.1311800-04:00" finish="2024-10-17T13:08:37.7060120-04:00" />
+  <TestSettings name="default" id="eabb3897-ee80-410f-8a06-1eeeeb604c10">
+    <Deployment runDeploymentRoot="_Williams-Mini_2024-10-17_13_08_37" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="548c2647-75e0-4448-b667-ddf8911f10cf" testId="b96d3c58-94bd-373c-4dcc-b4230011f02d" testName="Returns Hello" computerName="Williams-Mini" duration="00:00:00.0013769" startTime="2024-10-17T13:08:37.6400730-04:00" endTime="2024-10-17T13:08:37.6400830-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="548c2647-75e0-4448-b667-ddf8911f10cf">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Equal() Failure
+          ↓ (pos 0)
+Expected: dHello
+Actual:   Hello
+          ↑ (pos 0)</Message>
+          <StackTrace>   at SimpleSetupTest.SimpleSetupTests.ReturnsHello() in /Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetupTest/SimpleClassTests.cs:line 12
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Returns Hello" storage="/users/wwmac/documents/projects/examples/csharp/kata/simplesetup/simplesetuptest/bin/debug/net8.0/simplesetuptest.dll" id="b96d3c58-94bd-373c-4dcc-b4230011f02d">
+      <Execution id="548c2647-75e0-4448-b667-ddf8911f10cf" />
+      <TestMethod codeBase="/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetupTest/bin/Debug/net8.0/SimpleSetupTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="SimpleSetupTest.SimpleSetupTests" name="ReturnsHello" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="b96d3c58-94bd-373c-4dcc-b4230011f02d" executionId="548c2647-75e0-4448-b667-ddf8911f10cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" passed="0" failed="1" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.5+1caef2f33e (64-bit .NET 8.0.1)
+[xUnit.net 00:00:00.21]   Discovering: SimpleSetupTest
+[xUnit.net 00:00:00.23]   Discovered:  SimpleSetupTest
+[xUnit.net 00:00:00.23]   Starting:    SimpleSetupTest
+[xUnit.net 00:00:00.26]       Assert.Equal() Failure
+[xUnit.net 00:00:00.26]                 ↓ (pos 0)
+[xUnit.net 00:00:00.26]       Expected: dHello
+[xUnit.net 00:00:00.26]       Actual:   Hello
+[xUnit.net 00:00:00.26]                 ↑ (pos 0)
+[xUnit.net 00:00:00.26]       Stack Trace:
+[xUnit.net 00:00:00.26]         /Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetupTest/SimpleClassTests.cs(12,0): at SimpleSetupTest.SimpleSetupTests.ReturnsHello()
+[xUnit.net 00:00:00.26]            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+[xUnit.net 00:00:00.26]            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+[xUnit.net 00:00:00.26]   Finished:    SimpleSetupTest
+</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="Williams-Mini" outcome="Error" timestamp="2024-10-17T13:08:37.6391630-04:00">
+        <Text>[xUnit.net 00:00:00.26]     Returns Hello [FAIL]</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>

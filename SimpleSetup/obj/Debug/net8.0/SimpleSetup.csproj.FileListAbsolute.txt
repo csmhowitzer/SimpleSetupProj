@@ -1,0 +1,11 @@
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/bin/Debug/net8.0/SimpleSetup.deps.json
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/bin/Debug/net8.0/SimpleSetup.dll
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/bin/Debug/net8.0/SimpleSetup.pdb
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/Debug/net8.0/SimpleSetup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/Debug/net8.0/SimpleSetup.AssemblyInfoInputs.cache
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/Debug/net8.0/SimpleSetup.AssemblyInfo.cs
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/Debug/net8.0/SimpleSetup.csproj.CoreCompileInputs.cache
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/Debug/net8.0/SimpleSetup.dll
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/Debug/net8.0/refint/SimpleSetup.dll
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/Debug/net8.0/SimpleSetup.pdb
+/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/Debug/net8.0/ref/SimpleSetup.dll
