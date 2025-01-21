@@ -11,6 +11,7 @@ public class Program
         Console.WriteLine("Waiting for input");
         Console.WriteLine(WriteSomething());
     }
+
     public static string WriteSomething()
     {
         Console.WriteLine("Write something please: ");

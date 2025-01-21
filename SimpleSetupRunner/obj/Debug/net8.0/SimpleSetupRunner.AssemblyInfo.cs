@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleSetupRunner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dce00c23f5b56aa1a67a3f0fd3e67f458b50a5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleSetupRunner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleSetupRunner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

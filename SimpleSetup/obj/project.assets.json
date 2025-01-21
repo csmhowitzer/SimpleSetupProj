@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/wwmac/.nuget/packages/": {}
+    "/Users/brandonholbert/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/SimpleSetup.csproj",
+      "projectUniqueName": "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetup/SimpleSetup.csproj",
       "projectName": "SimpleSetup",
-      "projectPath": "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/SimpleSetup.csproj",
-      "packagesPath": "/Users/wwmac/.nuget/packages/",
-      "outputPath": "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/obj/",
+      "projectPath": "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetup/SimpleSetup.csproj",
+      "packagesPath": "/Users/brandonholbert/.nuget/packages/",
+      "outputPath": "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetup/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/wwmac/.nuget/NuGet/NuGet.Config"
+        "/Users/brandonholbert/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.1/libexec/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

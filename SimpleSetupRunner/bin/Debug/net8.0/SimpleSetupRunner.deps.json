@@ -16,7 +16,10 @@
       },
       "SimpleSetup/1.0.0": {
         "runtime": {
-          "SimpleSetup.dll": {}
+          "SimpleSetup.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

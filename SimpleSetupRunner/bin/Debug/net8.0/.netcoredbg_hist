@@ -1,1 +1,24 @@
 quit
+break
+file SimpleSetupRunner.dll
+break
+file SimpleSetupRunner.dll
+break
+break Program.cs:10
+into
+info
+break
+threads
+file
+help
+list
+help run
+help file
+file SimpleSetupRunner.exe
+break Program.cs:10
+file /Users/brandonholbert/documents/projects/examples/csharp/SimpleSetupProj/SimpleSetupRunner/Program.cs
+file
+file /Users/brandonholbert/documents/projects/examples/csharp/SimpleSetupProj/SimpleSetupRunner/bin/debug/net8.0/SimpleSetupRunner.dll
+break /Users/brandonholbert/documents/projects/examples/csharp/simplesetupproj/simplesetuprunner/Program.cs:10
+run
+-exec-run

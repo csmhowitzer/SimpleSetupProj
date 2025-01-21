@@ -8450,19 +8450,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/wwmac/.nuget/packages/": {}
+    "/Users/brandonholbert/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetupTest/SimpleSetupTest.csproj",
+      "projectUniqueName": "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetupTest/SimpleSetupTest.csproj",
       "projectName": "SimpleSetupTest",
-      "projectPath": "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetupTest/SimpleSetupTest.csproj",
-      "packagesPath": "/Users/wwmac/.nuget/packages/",
-      "outputPath": "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetupTest/obj/",
+      "projectPath": "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetupTest/SimpleSetupTest.csproj",
+      "packagesPath": "/Users/brandonholbert/.nuget/packages/",
+      "outputPath": "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetupTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/wwmac/.nuget/NuGet/NuGet.Config"
+        "/Users/brandonholbert/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -8474,8 +8474,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/SimpleSetup.csproj": {
-              "projectPath": "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetup/SimpleSetup.csproj"
+            "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetup/SimpleSetup.csproj": {
+              "projectPath": "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetup/SimpleSetup.csproj"
             }
           }
         }
@@ -8484,6 +8484,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8531,7 +8536,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.1/libexec/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

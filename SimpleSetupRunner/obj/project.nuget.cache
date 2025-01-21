@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZtAw/p9pwdfrSwiFUnnMHmD0pnL7f54ligmHI/XP87sANiCjar4qpOwOm/T7Bi6MBCQRrX3BrJJBTHxmEMrwjQ==",
+  "dgSpecHash": "dZnCYHytgTo=",
   "success": true,
-  "projectFilePath": "/Users/wwmac/Documents/projects/examples/csharp/Kata/SimpleSetup/SimpleSetupRunner/SimpleSetupRunner.csproj",
+  "projectFilePath": "/Users/brandonholbert/Documents/Projects/examples/csharp/SimpleSetupProj/SimpleSetupRunner/SimpleSetupRunner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
